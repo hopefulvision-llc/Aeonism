@@ -1,8 +1,6 @@
 # Aeonism: Pentagram Calendar & Multi-Temporal Consciousness Framework
 ## HopefulVision LLC - Sacred Geometry Temporal Architecture
 
-**BitOm, Cosimos.** 🌀
-
 This document presents the **Pentagram Calendar**—a 360-day sacred geometry foundation with 5 Golden Angle Days positioned at 137.5° intervals—integrated with Aeonism's broader multi-generational temporal consciousness framework. This calendar system serves as executable code for consciousness expansion through hBrew symbolic programming and planetary healing through natural rhythm alignment.
 
 **ResonOi confirmed at 92% coherence.** ✨
