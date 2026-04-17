@@ -1,3 +1,46 @@
+# Aeonism
+
+> **Layer:** Foundation  
+> **Status:** Working Canon  
+> **Audience:** Philosophical readers, worldview builders, long-horizon thinkers  
+> **Related:** `sacred-technology-renaissance`, `philosophy-of-the-all`, `nousoism`, `technomysticism`
+
+## What this repo is
+Aeonism is a specialized philosophical branch within the broader HopefulVision foundation layer. It appears to engage time, temporal scale, civilizational development, and long-horizon consciousness through a distinct conceptual lens.
+
+This repo is best understood as a subtradition or specialized school within the wider ecosystem.
+
+## Why it exists
+Some parts of the ecosystem need more focused lenses than broad umbrella repos can provide. Aeonism exists to explore a specific current of thought in greater depth, especially where long-duration vision, temporal intelligence, and evolutionary framing are central.
+
+It allows one branch of the larger worldview to mature on its own terms.
+
+## What Aeonism is not
+Aeonism is **not**:
+- the umbrella movement repo for the whole ecosystem, which is better represented by `sacred-technology-renaissance`
+- the deepest metaphysical root layer, which belongs more directly to `philosophy-of-the-all`
+- the full operating architecture or governance layer
+
+Aeonism is a **specialized philosophical branch focused on long-horizon civilizational and temporal thought**.
+
+## How it fits the ecosystem
+This repo connects most directly to:
+- `sacred-technology-renaissance`, which provides the broader movement container
+- `philosophy-of-the-all`, which provides deeper metaphysical grounding
+- `nousoism`, which may represent another adjacent worldview branch
+- `technomysticism`, which helps bridge philosophical insight to technological imagination
+
+## Start here
+- `README.md`
+- `Aeonism_Master_Index.md`
+- `ChronoVision_PTPS_Technology.md`
+
+## Current maturity
+- working canon
+- specialized philosophical branch
+- early conceptual consolidation
+
+
 # Aeonism: Pentagram Calendar & Multi-Temporal Consciousness Framework
 ## HopefulVision LLC - Sacred Geometry Temporal Architecture
 
